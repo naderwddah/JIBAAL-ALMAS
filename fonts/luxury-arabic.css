@@ -1,0 +1,192 @@
+/* =========================================================
+   LUXURY ARABIC FONTS - Self-Hosted
+   Premium Arabic typography for Jibaal Almas Marble & Stone
+   ========================================================= */
+
+/* ============= AMIRI - Classical Naskh Elegance ============= */
+@font-face {
+  font-family: 'Amiri';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(luxury/J7aRnpd8CGxBHqUp.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Amiri';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(luxury/J7acnpd8CGxBHp2VkZY4.ttf) format('truetype');
+}
+
+/* ============= AREF RUQAA - Calligraphic Masterpiece ============= */
+@font-face {
+  font-family: 'Aref Ruqaa';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(luxury/WwkbxPW1E165rajQKDulEIA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Aref Ruqaa';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(luxury/WwkYxPW1E165rajQKDulKDwNcNI.ttf) format('truetype');
+}
+
+/* ============= REEM KUFI - Modern Geometric Luxury ============= */
+@font-face {
+  font-family: 'Reem Kufi';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(luxury/2sDPZGJLip7W2J7v7wQZZE1I0yCmYzzQtuZnEGE.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Reem Kufi';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(luxury/2sDPZGJLip7W2J7v7wQZZE1I0yCmYzzQttRnEGE.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Reem Kufi';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(luxury/2sDPZGJLip7W2J7v7wQZZE1I0yCmYzzQtjhgEGE.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Reem Kufi';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(luxury/2sDPZGJLip7W2J7v7wQZZE1I0yCmYzzQtgFgEGE.ttf) format('truetype');
+}
+
+/* ============= EL MESSIRI - Sophisticated Modern ============= */
+@font-face {
+  font-family: 'El Messiri';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(luxury/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuUXfK5g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'El Messiri';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(luxury/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuUufK5g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'El Messiri';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(luxury/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuXCe65g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'El Messiri';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(luxury/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuXwe65g.ttf) format('truetype');
+}
+
+/* ============= MARKAZI TEXT - Editorial Serif ============= */
+@font-face {
+  font-family: 'Markazi Text';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(luxury/4UaZrFhTvxVnHDvUkUiHg8jprP4DCwM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Markazi Text';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(luxury/4UaerFhTvxVnHDvUkUiHg8jprP4DM_dFHlY.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Markazi Text';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(luxury/4UaerFhTvxVnHDvUkUiHg8jprP4DM9tCHlY.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Markazi Text';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(luxury/4UaerFhTvxVnHDvUkUiHg8jprP4DM79DHlY.ttf) format('truetype');
+}
+
+/* ============= TAJAWAL - Clean Sans-Serif ============= */
+@font-face {
+  font-family: 'Tajawal';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(luxury/Iura6YBj_oCad4k1rzY.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Tajawal';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(luxury/Iurf6YBj_oCad4k1l4qkLrY.ttf) format('truetype');
+}
+
+/* ============= LATEEF - Nastaliq Style ============= */
+@font-face {
+  font-family: 'Lateef';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(luxury/hESw6XVnNCxEvkbMpg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lateef';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(luxury/hESz6XVnNCxEvkb0Bjugbg.ttf) format('truetype');
+}
+
+/* ============= SCHEHERAZADE NEW - Traditional Naskh ============= */
+@font-face {
+  font-family: 'Scheherazade New';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(luxury/scheh-400.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Scheherazade New';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(luxury/scheh-700.ttf) format('truetype');
+}
+
+/* =========================================================
+   ADDITIONAL PREMIUM ARABIC FONTS via Google Fonts CDN
+   Loaded for ultra-luxurious typography
+   ========================================================= */
+@import url('https://fonts.googleapis.com/css2?family=Marhey:wght@400;500;600;700&family=Lalezar&family=Rakkas&family=Galada&display=swap');
+
+/* ============= MARHEY - Modern Luxurious Display ============= */
+/* (loaded via @import above) */
+
+/* ============= LALEZAR - Bold Decorative ============= */
+/* (loaded via @import above) */
+
+/* ============= RAKKAS - Calligraphic Display ============= */
+/* (loaded via @import above) */
+
+/* ============= GALADA - Elegant Curved ============= */
+/* (loaded via @import above) */
